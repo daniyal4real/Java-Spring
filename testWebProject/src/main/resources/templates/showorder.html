@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html ng-app="aitu-project">
+<head>
+    <title>Show order</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.angularjs.org/1.5.8/angular.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="showorder.js"></script>
+    <style type="text/css">
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: arial;
+        }
+
+
+        header{
+            padding:5px;
+            background-color: white;
+            color:#00235f;
+            margin-top: -10px;
+        }
+
+        body{
+            margin: 0;
+            color:  #00235f ;
+            background-color: white;
+            padding: 0;
+            font-family: arial;
+        }
+
+        .slogan h1{
+            font-size: 70px;
+        }
+
+        .container{
+            background-color: white;
+        }
+
+        .row img{
+            width: 100%;
+        }
+
+        .row a{
+            color: red;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }
+
+        .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+
+        .topnav a.active {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .topnav .icon {
+            display: none;
+        }
+
+        @media screen and (max-width: 600px) {
+            .topnav a:not(:first-child) {display: none;}
+            .topnav a.icon {
+                float: right;
+                display: block;
+            }
+        }
+
+        @media screen and (max-width: 600px) {
+            .topnav.responsive {position: relative;}
+            .topnav.responsive .icon {
+                position: absolute;
+                right: 0;
+                top: 0;
+            }
+            .topnav.responsive a {
+                float: none;
+                display: block;
+                text-align: left;
+            }
+        }
+    </style>
+</head>
+<body ng-controller="ShowOrderCtrl">
+<div class="topnav" id="myTopnav">
+    <a href="index.html" >Home</a>
+    <a href="products.html">Products</a>
+    <a href="showorder.html" class="active">Showorder</a>
+    <a href="orders.html">Orders</a>
+    <a href="login.html">Profile</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+    </a>
+</div>
+
+
+
+
+
+<div class="container">
+    <table class="table table-bordered table-striped table-condensed">
+        <thead>
+        <th>customer id</th>
+        <th>customers name</th>
+        <th>total sum</th>
+        <th>phone</th>
+        </thead>
+        <tr ng-repeat="customer in customerList ">
+            <td ng-bind="customer.customerId"></td>
+            <td ng-bind="customer.customerName"></td>
+            <td ng-bind="customer.total"></td>
+            <td ng-bind="customer.customerPhone"></td>
+        </tr>
+    </table>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf77eb2d-240e-45f6-abae-3399db79673a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/model/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndtermProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EndtermProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndtermProject/src/main/java/kz/aitu/project/entity/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndtermProject/src/main/java/kz/aitu/project/entity/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndtermProject/src/main/java/kz/aitu/project/repository/RegistrationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndtermProject/src/main/java/kz/aitu/project/repository/RegistrationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndtermProject/src/main/java/kz/aitu/project/service/RegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndtermProject/src/main/java/kz/aitu/project/service/RegistrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndtermProject/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/EndtermProject/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndtermProject/src/main/resources/flyway/V20201013_1__init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/EndtermProject/src/main/resources/flyway/V20201013_1__init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndtermProject/src/main/resources/templates/app2.js" beforeDir="false" afterPath="$PROJECT_DIR$/EndtermProject/src/main/resources/templates/app2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndtermProject/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/EndtermProject/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndtermProject/src/main/resources/templates/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/EndtermProject/src/main/resources/templates/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndtermProject/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/EndtermProject/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/CorsFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/CorsFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/StartingPointApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/StartingPointApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/OrderItemsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/OrderItemsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/Auth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/OrderItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/OrderItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/AuthRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/AuthRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/OrderItemRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/OrderItemRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/OrderItemService.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/OrderItemService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/java/kz/aitu/advancedJava/startingPoint/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/resources/flyway/V20201410_1_init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/resources/flyway/V20201410_1_init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/resources/flyway/V20201410_2_insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/resources/flyway/V20201410_2_insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/resources/html/factoryview.html" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/resources/html/factoryview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/resources/html/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/resources/html/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/resources/js/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/resources/js/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/main/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/main/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endterm1/src/test/java/kz/aitu/advancedJava/startingPoint/StartingPointApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/endterm1/src/test/java/kz/aitu/advancedJava/startingPoint/StartingPointApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/controller/RegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/entity/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/entity/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/repository/AuthorizationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/repository/AuthorizationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/repository/RegistrationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/repository/RegistrationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/service/RegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/java/kz/aitu/project/service/RegistrationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/resources/flyway/V20201013_1__init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/resources/flyway/V20201013_1__init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/resources/flyway/V20201013_2__insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/resources/flyway/V20201013_2__insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/resources/templates/app2.js" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/resources/templates/app2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finaltask/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/finaltask/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/CorsFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/CorsFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/model/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/model/Auth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/repository/AuthRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/repository/AuthRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/repository/CategoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/repository/CategoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/repository/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/repository/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/services/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/services/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/services/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/services/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/services/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/services/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/java/kz/aitu/advancedJava/startingPoint/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/resources/flyway/V20201410_1__init.sql" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/resources/flyway/V20201410_1__init.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/resources/flyway/V20201410_2__insert.sql" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/resources/flyway/V20201410_2__insert.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/resources/html/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/resources/html/category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/resources/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/resources/html/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/resources/html/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/resources/html/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/resources/js/category.js" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/resources/js/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startingPoint/src/main/resources/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/startingPoint/src/main/resources/js/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1Spring/src/main/java/kz/aitu/project/controllers/GroupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/task1Spring/src/main/java/kz/aitu/project/controllers/GroupController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1Spring/src/main/java/kz/aitu/project/repository/GroupRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/task1Spring/src/main/java/kz/aitu/project/repository/GroupRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AdvancedJava1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mdw57BLWmWwpPyEVeAEDomzkCB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf77eb2d-240e-45f6-abae-3399db79673a" name="Default Changelist" comment="" />
+      <created>1609836590081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609836590081</updated>
+      <workItem from="1609836591180" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
